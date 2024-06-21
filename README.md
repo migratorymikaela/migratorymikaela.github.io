@@ -1,3 +1,5 @@
 # migratorymikaela.github.io
 
-Hold
+Welcome to my temp website.
+
+Blog coming soon
